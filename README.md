@@ -8,5 +8,7 @@ Learn more about [**WebClientPrint 3.0 for ASP.NET MVC & WebForms**](http://neod
 ## The WebClientPrint3-Sample Repository
 This ASP.NET Website is a sample project to getting you started with WebClientPrint 3.0 for ASP.NET MVC & WebForms Solution
 
+> IMPORTANT NOTE: You must [**download and install the Neodynamic.SDK.WebClient.dll**](http://neodynamic.com/products/printing/raw-data/aspnet-mvc/download) locally and reference it to these projects!
+
 ## Know How WebClientPrint 3.0 for ASP.NET MVC & WebForms Works
 Refer to the [Online Help Documentation](http://neodynamic.com/Products/Help/WebClientPrint3.0/index.html)
